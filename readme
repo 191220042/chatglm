@@ -1,0 +1,2 @@
+安装requirements.txt，可能有些没写，按照报错安装一下
+python src/web.py --help 有两个参数一个是模型名称或路径，另一个是端口号
